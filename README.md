@@ -1,5 +1,5 @@
-# lexer-parser-C
-This repository contains lexer and parser code for C language.
+# lexer-parser-Objective C
+This repository contains lexer and parser code for Objective C language written in C language.
 Parser used - Recursive Descent Parser
 The file Report.pdf contains constructs,grammar and DFA for the project.
 
